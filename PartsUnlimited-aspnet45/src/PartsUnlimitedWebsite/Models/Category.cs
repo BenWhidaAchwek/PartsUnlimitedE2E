@@ -2,6 +2,9 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
+
+
+// other change 
 {
     public class Category
     {
